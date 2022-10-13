@@ -10,7 +10,7 @@ def generate_launch_description():
         Node(
             package='turtlesim',
             executable='turtlesim_node',
-            name='sim'
+            name='simulation'
         ),
         Node(
             package='learning_tf2_py',
