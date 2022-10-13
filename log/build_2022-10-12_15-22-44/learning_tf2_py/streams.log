@@ -1,0 +1,20 @@
+[0.875s] Invoking command in '/home/meligy198/learning_tf2_py/build/learning_tf2_py': PYTHONPATH=/home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/meligy198/learning_tf2_py/install/learning_tf2_py --editable --build-directory /home/meligy198/learning_tf2_py/build/learning_tf2_py/build --no-deps install_data --install-dir /home/meligy198/learning_tf2_py/install/learning_tf2_py
+[1.277s] running develop
+[1.574s] running egg_info
+[1.574s] writing learning_tf2_py.egg-info/PKG-INFO
+[1.575s] writing dependency_links to learning_tf2_py.egg-info/dependency_links.txt
+[1.575s] writing entry points to learning_tf2_py.egg-info/entry_points.txt
+[1.576s] writing requirements to learning_tf2_py.egg-info/requires.txt
+[1.576s] writing top-level names to learning_tf2_py.egg-info/top_level.txt
+[1.579s] reading manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[1.580s] writing manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[1.582s] running build_ext
+[1.583s] Creating /home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/python3.10/site-packages/learning-tf2-py.egg-link (link to .)
+[1.584s] Installing static_turtle_tf2_broadcaster script to /home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/learning_tf2_py
+[1.585s] Installing turtle_tf2_broadcaster script to /home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/learning_tf2_py
+[1.586s] 
+[1.586s] Installed /home/meligy198/learning_tf2_py/build/learning_tf2_py
+[1.586s] running install_data
+[1.586s] copying package.xml -> /home/meligy198/learning_tf2_py/install/learning_tf2_py/share/learning_tf2_py
+[1.587s] copying launch/turtle_tf2_demo.launch.py -> /home/meligy198/learning_tf2_py/install/learning_tf2_py/share/learning_tf2_py/launch
+[1.611s] Invoked command in '/home/meligy198/learning_tf2_py/build/learning_tf2_py' returned '0': PYTHONPATH=/home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/meligy198/learning_tf2_py/install/learning_tf2_py --editable --build-directory /home/meligy198/learning_tf2_py/build/learning_tf2_py/build --no-deps install_data --install-dir /home/meligy198/learning_tf2_py/install/learning_tf2_py

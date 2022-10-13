@@ -1,0 +1,18 @@
+[0.492s] Invoking command in '/home/meligy198/learning_tf2_py/build/learning_tf2_py': PYTHONPATH=/home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/meligy198/learning_tf2_py/install/learning_tf2_py --editable --build-directory /home/meligy198/learning_tf2_py/build/learning_tf2_py/build --no-deps install_data --install-dir /home/meligy198/learning_tf2_py/install/learning_tf2_py
+[0.706s] running develop
+[0.825s] running egg_info
+[0.825s] writing learning_tf2_py.egg-info/PKG-INFO
+[0.826s] writing dependency_links to learning_tf2_py.egg-info/dependency_links.txt
+[0.826s] writing entry points to learning_tf2_py.egg-info/entry_points.txt
+[0.826s] writing requirements to learning_tf2_py.egg-info/requires.txt
+[0.827s] writing top-level names to learning_tf2_py.egg-info/top_level.txt
+[0.828s] reading manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[0.829s] writing manifest file 'learning_tf2_py.egg-info/SOURCES.txt'
+[0.831s] running build_ext
+[0.831s] Creating /home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/python3.10/site-packages/learning-tf2-py.egg-link (link to .)
+[0.832s] Installing static_turtle_tf2_broadcaster script to /home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/learning_tf2_py
+[0.833s] Installing turtle_tf2_broadcaster script to /home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/learning_tf2_py
+[0.833s] 
+[0.834s] Installed /home/meligy198/learning_tf2_py/build/learning_tf2_py
+[0.834s] running install_data
+[0.858s] Invoked command in '/home/meligy198/learning_tf2_py/build/learning_tf2_py' returned '0': PYTHONPATH=/home/meligy198/learning_tf2_py/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/meligy198/learning_tf2_py/install/learning_tf2_py --editable --build-directory /home/meligy198/learning_tf2_py/build/learning_tf2_py/build --no-deps install_data --install-dir /home/meligy198/learning_tf2_py/install/learning_tf2_py
